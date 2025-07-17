@@ -516,7 +516,7 @@ function App() {
                   <Phone className="h-6 w-6 text-blue-600 mt-1" />
                   <div>
                     <h4 className="font-semibold text-gray-900">Phone</h4>
-                    <p className="text-gray-600">+91 98765-43210</p>
+                    <p className="text-gray-600">+91 8847024002</p>
                   </div>
                 </div>
                 
@@ -524,7 +524,7 @@ function App() {
                   <Mail className="h-6 w-6 text-blue-600 mt-1" />
                   <div>
                     <h4 className="font-semibold text-gray-900">Email</h4>
-                    <p className="text-gray-600">info@nsiit.com</p>
+                    <p className="text-gray-600">info.nextstepiit@gmail.com</p>
                   </div>
                 </div>
               </div>
@@ -596,11 +596,11 @@ function App() {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Phone className="h-5 w-5" />
-                  <span>+91 98765-43210</span>
+                  <span>+91 8847024002</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Mail className="h-5 w-5" />
-                  <span>info@nsiit.com</span>
+                  <span>info.nextstepiit@gmail.com</span>
                 </div>
               </div>
             </div>
